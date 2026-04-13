@@ -52,3 +52,5 @@ Currently processing an ML/DS course, covering 3 sections: **Python**, **Math**,
 `Python` `ML` `NLP` `LLM` `GenAI` `Prompt Engineering` `Fine-tuning` `Post-fine-tuning` `RAG` `Knowledge Retrieval` `LangChain` `LlamaIndex` `OpenAI` `Anthropic` `Hugging Face` `PyTorch` `Vector DB (Pinecone / Chroma)` `SQL` `NoSQL` `Azure` `API Integration` `Document Parsing (PDF, tables, text)` `ML/LLM Pipelines` `Latency & Cost Optimization` `LLM Quality Control`
 
 **Optional:** `C++` `Embedded` `Computer Vision` `Deep Learning`
+
+**To Learn:** `Azure` `AWS` `AI Agents Setup & Orchestration`
