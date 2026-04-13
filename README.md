@@ -44,3 +44,9 @@ Currently processing an ML/DS course, covering 3 sections: **Python**, **Math**,
 | ⬜ | Attention, Advanced deep learning review |
 
 **Legend:** ✅ Done &nbsp;|&nbsp; 🔄 In Progress &nbsp;|&nbsp; ⬜ Upcoming
+
+---
+
+## Target Job Requirements
+
+`Python` `ML` `NLP` `LLM` `GenAI` `Prompt Engineering` `Fine-tuning` `Post-fine-tuning` `RAG` `Knowledge Retrieval` `LangChain` `LlamaIndex` `OpenAI` `Anthropic` `Hugging Face` `PyTorch` `Vector DB (Pinecone / Chroma)` `SQL` `NoSQL` `Azure` `API Integration` `Document Parsing (PDF, tables, text)` `ML/LLM Pipelines` `Latency & Cost Optimization` `LLM Quality Control`
