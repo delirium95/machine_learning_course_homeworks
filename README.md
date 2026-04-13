@@ -1,6 +1,6 @@
-# ML/DS Course Homeworks — DAN.IT
+# ML/DS Course Homeworks
 
-Currently processing an ML/DS course at **DAN.IT**, covering 3 sections: **Python**, **Math**, and **ML**.
+Currently processing an ML/DS course, covering 3 sections: **Python**, **Math**, and **ML**.
 
 - **Python** — Lectures and home tasks.
 - **Math** — Probability, statistics, derivatives, differential equations, optimization methods (gradient descent, least squares), calculus (integrals). Also studying math separately with a tutor.
